@@ -118,12 +118,14 @@ TBD
 <td>14 Sep 2021</td>
 <td><img src="./favico/ospo.png" class="responsive" width="25px"> &nbsp;&nbsp;&nbsp;<a href="https://events.linuxfoundation.org/open-source-summit-north-america/" target="blank">Open Source Summit + Embedded Linux Conference + OSPOCon 2021</a></td>
 <td> CYOK - Choose Your Own Kubernetes For Local Development</td>
-<td><ul><li><a href="https://sched.co/lAN3"> Session Link</li><li> Click <a href="./pptx/CYOK-OSPOCon-2021.pptx"> here</a> for PPTX</li></ul></td>
+<td><ul><li><a href="https://sched.co/lAN3"> Session Link</a></li><li> <a href="./pptx/CYOK-OSPOCon-2021.pptx">Click here</a> for PPTX</li></ul></td>
 <td width="25%"  style="text-align:center">
 <details>
   <summary>Expand</summary>
 
-TBD
+```pdf
+	./pdf/CYOK-OSPOCon-2021.pdf
+```
 
 </details>
 </td>
@@ -138,12 +140,14 @@ TBD
 <td>9 Oct 2021</td>
 <td><img src="./favico/cwitc.png" class="responsive" width="25px"> &nbsp;&nbsp;&nbsp;<a href="https://cwitc.org/2021/sessions#how-to-developgo-deployhelm-and-monitor-cloudnative-app-in-kubernetes" target="blank">The Central Wisconsin IT Conference</a></td>
 <td>How to Develop(Go), Deploy(Helm) and Monitor Cloud-Native App in Kubernetes</td>
-<td>-NA-</td>
+<td><a href="https://github.com/gkarthiks/otel-demo-svc-1"> GitHub Repo</a></td>
 <td width="25%"  style="text-align:center">
 <details>
   <summary>Expand</summary>
 
-TBD
+```pdf
+	./pdf/Develop_Deploy_Monitor.pdf
+```
 
 </details>
 </td>
