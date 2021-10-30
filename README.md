@@ -129,7 +129,7 @@ TBD
 
 </details>
 </td>
-<td> -TBD- </td>
+<td>  <a href="https://www.youtube.com/watch?v=emzZct74j4I&list=PLbzoR-pLrL6q8QMGJ4dFnqejkHDm76kJV" target="blank">YouTube</a></td>
 </tr>
 <!-- OSPO Ends -->
 
@@ -166,7 +166,9 @@ TBD
 <details>
   <summary>Expand</summary>
 
-TBD
+```pdf
+	./pdf/BSidesOK_2021.pdf
+```
 
 </details>
 </td>
